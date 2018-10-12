@@ -1443,8 +1443,8 @@ body {
   }
 }
 .cid-r2jiAmmFmL {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-r2jiAmmFmL .carousel-control {
@@ -1645,6 +1645,56 @@ body {
   .cid-r2jiAmmFmL .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-r5XtomsOsg {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r5XtomsOsg .testimonials-container {
+  margin: 0 auto;
+}
+.cid-r5XtomsOsg .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+}
+.cid-r5XtomsOsg .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-r5XtomsOsg .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-r5XtomsOsg .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-r5XtomsOsg .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-r5XtomsOsg .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-r5XtomsOsg .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r5XtomsOsg .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-r5XtomsOsg .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r5XtomsOsg .user_name {
+  text-align: right;
 }
 .cid-r2vlu2x85p {
   padding-top: 90px;
@@ -2579,6 +2629,23 @@ body {
 }
 .cid-r5IoBD5JTl .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-r67VHoWgQP {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r67VHoWgQP .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r67VUh6ZPT {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r67VUh6ZPT .mbr-text,
+.cid-r67VUh6ZPT blockquote {
+  color: #767676;
 }
 .cid-r5Iod6iHr8 {
   padding-top: 90px;
