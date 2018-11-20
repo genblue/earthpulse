@@ -49,6 +49,8 @@
     "gdpr": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/swid/code/genblue/earthpulse",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
