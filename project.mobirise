@@ -49,8 +49,6 @@
     "gdpr": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "publishType": "local",
-    "publishPath": "file:///Users/swid/code/genblue/earthpulse",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
@@ -59,7 +57,7 @@
       "settings": {
         "main": true,
         "title": "Earth Pulse",
-        "meta_descr": "",
+        "meta_descr": "We are a global network of people, organizations, and companies who monitor Mother Earth and reward those who protect her.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
