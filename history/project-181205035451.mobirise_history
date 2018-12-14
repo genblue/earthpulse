@@ -39,7 +39,7 @@
     "versionFirst": "4.8.1",
     "siteFonts": [],
     "uniqCompNum": 55,
-    "versionPublish": "4.8.8",
+    "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/earthpulse-128x128-3.png",
     "noImageResize": "",
@@ -49,6 +49,8 @@
     "gdpr": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/swid/code/genblue/earthpulse",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
@@ -57,7 +59,7 @@
       "settings": {
         "main": true,
         "title": "Earth Pulse",
-        "meta_descr": "We are a global network of people, organizations, and companies who monitor Mother Earth and reward those who protect her.",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
