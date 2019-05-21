@@ -50,9 +50,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///Users/swid/code/genblue/earthpulse"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
