@@ -58,7 +58,7 @@
         "main": true,
         "title": "Earth Pulse",
         "meta_descr": "We are a global network of people, organizations, and companies who monitor Mother Earth and reward those who protect her.",
-        "header_custom": "<!--  Social Recommended -->\n<meta property=\"og:site_name\" content=\"Earth Pulse\">\n<meta name=\"twitter:image:alt\" content=\"Earth Pulse – Protect Mother Earth\">\n\n<!--  For Social Analytics \n<meta property=\"fb:app_id\" content=\"your_app_id\" />\n<meta name=\"twitter:site\" content=\"@website-username\">",
+        "header_custom": "<!--  Essential META Tags -->\n<meta property=\"og:title\" content=\"Earth Pulse – Protect Mother Earth.\">\n<meta property=\"og:description\" content=\"We are a global network of people, organizations, and companies who monitor Mother Earth and reward those who protect her.\">\n<meta property=\"og:image\" content=\"https://earthpulse.io/assets/images/socialShare.jpg\">\n<meta property=\"og:url\" content=\"https://earthpulse.io/index.html\">\n<meta name=\"twitter:card\" content=\"http://earthpulse.io/assets/images/socialTwitterCard.jpg\">\n\n<!--  Social Recommended -->\n<meta property=\"og:site_name\" content=\"Earth Pulse\">\n<meta name=\"twitter:image:alt\" content=\"Earth Pulse – Protect Mother Earth\">\n\n<!--  For Social Analytics \n<meta property=\"fb:app_id\" content=\"your_app_id\" />\n<meta name=\"twitter:site\" content=\"@website-username\">\n-->",
         "footer_custom": "",
         "html_before": ""
       },
